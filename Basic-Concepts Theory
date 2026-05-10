@@ -10,4 +10,77 @@ It helps keep digital systems safe from hackers, viruses, malware, and cybercrim
   iv)Secures businesses and governments
   v)Keeps systems safe and reliable
 
-3.
+3. what are different types of cybersecurity?
+=> i) Network Security
+    Protects computer networks from unauthorized access, attacks, and misuse.
+    Examples: firewalls, intrusion detection systems (IDS), VPNs
+    Focus: keeping hackers out of networks
+  ii) Application Security
+     Secures software and applications from vulnerabilities.
+     Examples: secure coding practices, patching, penetration testing
+     Focus: preventing attacks like SQL injection or cross-site scripting (XSS)
+  iii) Information (Data) Security
+      Protects sensitive data from being accessed, altered, or stolen.
+      Examples: encryption, data backup, access controls
+     Focus: confidentiality, integrity, and availability (CIA triad)
+ iv) Cloud Security
+     Secures data, applications, and services in cloud environments.
+     Examples: cloud firewalls, identity management, encryption
+     Focus: protecting platforms like AWS, Azure, Google Cloud
+v) Mobile Security
+  Protects smartphones and tablets from threats.
+  Examples: mobile device management (MDM), app security
+  Focus: securing mobile apps and data
+vi) IoT (Internet of Things) Security
+   Secures connected devices like smart home gadgets, sensors, etc.
+   Examples: firmware updates, device authentication
+   Focus: protecting often vulnerable smart devices
+
+4. What is VAPT ?
+=> VAPT stands for Vulnerability Assessment and Penetration Testing. It is a cybersecurity process used to identify, analyze, and help fix security weaknesses in systems, networks,         applications, or websites.
+  VAPT combines two activities:
+i) Vulnerability Assessment (VA)
+This identifies known security weaknesses.
+Activities
+Scanning systems and applications
+Detecting outdated software
+Finding weak passwords or misconfigurations
+Identifying missing security patches
+
+ii) Penetration Testing (PT)
+This simulates a real cyberattack to exploit vulnerabilities safely.
+Check whether vulnerabilities can actually be exploited.
+Activities
+Attempting to gain unauthorized access
+Testing authentication systems
+Exploiting security flaws ethically
+Simulating hacker behavior
+
+5. what is difference between Offensive (Red Teaming) vs Defensive (Blue Teaming) security ?
+=> 
+i) Offensive Security
+Also called Red Teaming or Ethical Hacking.
+The goal is to simulate real attackers and discover vulnerabilities before malicious hackers do.
+Main Activities
+Penetration testing
+Exploit development
+Social engineering
+Web application testing
+Wireless hacking
+Vulnerability research
+An ethical hacker tries to exploit a company’s login page to check whether attackers could steal accounts.
+
+ii) Defensive Security
+Also called Blue Teaming.
+The goal is to prevent, detect, and respond to cyberattacks.
+Main Activities
+Monitoring security alerts
+Detecting malware
+Incident response
+Firewall management
+Threat hunting
+Security hardening
+A SOC team detects unusual login attempts and blocks the attacker before damage occurs.
+
+6.what is difference between Hacker and Ethical Hacker ?
+=> 
